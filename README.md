@@ -1,4 +1,4 @@
-### Code refer to Andrej's [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) and youtube videos, with modifications:
+### Annotated Andrej's [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) and youtube videos:
 
 1. As practice, I take the content of each function or the forward/backward pass away and try to write my own, after watching the videos.
 2. Added more explainations and comments. If you have any gaps, you may find them helpful.
